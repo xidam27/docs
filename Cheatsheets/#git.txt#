@@ -1,3 +1,0 @@
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/github_com
-git remote set-url origin git+ssh://git@github.com/xidam27/docs
