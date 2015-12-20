@@ -1,5 +1,5 @@
-# docs
-this is a document folder
-update
+Some text files of configs and cheatsheets
 
-2
+Git
+Emacs
+
