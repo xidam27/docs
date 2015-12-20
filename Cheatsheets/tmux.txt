@@ -42,4 +42,4 @@ Ctrl-b : "break-pane"
 
 # add to ~/.tmux.conf
 bind | split-window -h
-bind - split-window -v
+

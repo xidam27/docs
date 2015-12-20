@@ -10,5 +10,4 @@ git pull
 git push
 git add
 git commit
-git ls-files --deleted -z  |xargs -0 git rm
 
